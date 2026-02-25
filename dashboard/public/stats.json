@@ -1,0 +1,4075 @@
+{
+  "totalShipments": "10,000",
+  "totalRecordsRaw": 10000,
+  "avgLeadTime": "25.0 Days",
+  "totalCost": "$86,062,997",
+  "lastUpdated": "12:36:56",
+  "monthlyTrends": [
+    834,
+    760,
+    787,
+    815,
+    821,
+    812,
+    885,
+    882,
+    847,
+    885,
+    832,
+    840
+  ],
+  "warehouseCapacity": [
+    {
+      "name": "Jersey Central",
+      "usage": 65,
+      "id": "W001"
+    },
+    {
+      "name": "Shanghai Port",
+      "usage": 32,
+      "id": "W002"
+    },
+    {
+      "name": "Berlin Hub",
+      "usage": 46,
+      "id": "W003"
+    }
+  ],
+  "warehouseDist": {
+    "W003": 3455,
+    "W002": 3273,
+    "W001": 3272
+  },
+  "topCategories": {
+    "labels": [
+      "Energy",
+      "Transport"
+    ],
+    "data": [
+      8311,
+      1689
+    ]
+  },
+  "recentShipments": [
+    {
+      "id": "SHP5151",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP7412",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP10614",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP4311",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP9070",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP7180",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP8545",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP5577",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP1558",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP2489",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP6174",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP1708",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP6991",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP1269",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP1419",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP6438",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP3556",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP9655",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP5995",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP10571",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP1911",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP8026",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP7600",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP6789",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP6783",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP1332",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP9251",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP10104",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP3098",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP5745",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP6565",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP8144",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP1648",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP2714",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP8815",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP3518",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP4203",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP2267",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP2734",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP7793",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP3694",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP10034",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP5620",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP2704",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP7933",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP2414",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP1010",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP4762",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP5454",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP7439",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP3235",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP6882",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP5129",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP1223",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP2329",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP4959",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP1027",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP9554",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP1142",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP10371",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP9289",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP8689",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP7114",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP9878",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP1574",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP7974",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP1798",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP9050",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP9308",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP1228",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP2949",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP3113",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP3161",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP6404",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP3750",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP8004",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP7708",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP4198",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP7785",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP1238",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP1619",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP6450",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP3809",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP8591",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP3776",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP2190",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP10002",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP5367",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP8915",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP6768",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP3817",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP3752",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP6923",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP3402",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP10471",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP6289",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP10036",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP9644",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP9845",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP6008",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP10302",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP3643",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP2718",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP4941",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP1512",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP3476",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP8261",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP7012",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP5520",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP1183",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP1888",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP3383",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP4575",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP5962",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP3572",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP7896",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP8772",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP4408",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP10899",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP1546",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP4341",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP9960",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP9669",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP2335",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP2333",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP1580",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP8877",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP7659",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP10482",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP9463",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP8739",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP10533",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP5774",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP5772",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP10177",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP4498",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP8311",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP8808",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP6501",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP2757",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP10064",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP1970",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP1971",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP4792",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP5175",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP4447",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP4222",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP5161",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP8447",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP9006",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP4882",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP4333",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP6776",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP4877",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP7336",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP6187",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP6407",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP9446",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP6757",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP6190",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP3786",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP10826",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP2009",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP10423",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP10996",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP10686",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP5601",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP6962",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP5937",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP4803",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP3418",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP5562",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP5269",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP7783",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP8966",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP7233",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP4471",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP6102",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP7881",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP10904",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP3824",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP4424",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP6071",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP4859",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP7444",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP7415",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP3145",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP5923",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP2364",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP4747",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP5860",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP1091",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP9196",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP7691",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP10083",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP5009",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP2657",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP7333",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP1090",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP6551",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP10065",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP2277",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP10537",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP3576",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP8007",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP7926",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP7098",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP5228",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP10438",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP9269",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP5172",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP10202",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP5381",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP8057",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP3526",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP7562",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP7547",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP2012",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP4745",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP1511",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP1969",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP2007",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP8886",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP1617",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP5316",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP1191",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP5834",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP3374",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP6599",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP4024",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP3373",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP7351",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP1747",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP7787",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP4489",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP4374",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP8414",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP10820",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP9247",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP2587",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP4015",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP2780",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP6159",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP9784",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP4763",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP6214",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP10772",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP7427",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP9999",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP1101",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP5351",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP2260",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP10444",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP7410",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP8764",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP1781",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP4393",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP9541",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP4518",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP1063",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP3017",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP6340",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP4378",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP4603",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP1108",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP7004",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP10342",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP2458",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP7430",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP7495",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP5570",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP4480",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP3905",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP8594",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP7082",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP3464",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP9216",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP8009",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP3179",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP2467",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP10408",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP7440",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP3972",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP1679",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP9506",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP4857",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP8465",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP9674",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP6595",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP3839",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP8826",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP4514",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP10683",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP9402",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP2573",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP10315",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP1716",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP1421",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP7720",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP10143",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP10358",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP1441",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP4237",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP4383",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP6972",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP1746",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP1464",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP10146",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP1859",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP9163",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP2563",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP9280",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP4005",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP3637",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP3630",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP9066",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP7613",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP9148",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP1025",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP3061",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP8359",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP4207",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP3730",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP4407",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP2490",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP2142",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP6265",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP6033",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP9095",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP5453",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP3453",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP2054",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP6741",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP8533",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP6687",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP10643",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP4021",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP4308",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP6647",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP4032",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP3354",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP8751",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP9606",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP5346",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP9257",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP5404",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP4608",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP1192",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP2800",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP9734",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP8614",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP7314",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP1152",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP7991",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP2184",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP7041",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP7072",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP8021",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP9697",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP10524",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP2984",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP10279",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP10992",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP8979",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP2210",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP2938",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP2945",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP2861",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP4573",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP10628",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP6971",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP2821",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP6746",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP6540",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP6323",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP10435",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP5766",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP8309",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP8064",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP9296",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP6210",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP9474",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP6834",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP7825",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP3130",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP9676",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP5229",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP9573",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP7617",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP10251",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP7525",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP2138",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP7163",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP3296",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP4674",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP5371",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP7549",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP8189",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP8111",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP8073",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP5034",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP8924",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP1998",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP3563",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP10786",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP9201",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP10959",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP7426",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP2677",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP4052",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP2354",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP2555",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP7096",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP5281",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP6638",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP2212",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP8762",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP6986",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP9365",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP3415",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP8912",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP4001",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP5928",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP8220",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP3445",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP1613",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP7846",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP6038",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP6865",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP1085",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP1968",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP10990",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP9849",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP10888",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP4904",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP5383",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP3292",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP4697",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP4147",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP4612",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP7241",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP1857",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP7820",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP1139",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP3169",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP6530",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP8909",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP3004",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP6463",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP4734",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP8299",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP6465",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP8162",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP3587",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP8167",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "93%"
+    },
+    {
+      "id": "SHP10845",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP7546",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP4854",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP1024",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP8434",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP3746",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP6346",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP9875",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP7416",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP1983",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP4735",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP7300",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP7927",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP4526",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP5185",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP4532",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP4177",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP7532",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP9716",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delayed",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP3783",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP9239",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP8936",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "90%"
+    },
+    {
+      "id": "SHP2375",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "88%"
+    },
+    {
+      "id": "SHP3851",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "91%"
+    },
+    {
+      "id": "SHP4467",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP9857",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "86%"
+    },
+    {
+      "id": "SHP1396",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "85%"
+    },
+    {
+      "id": "SHP10149",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP4694",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Shipped",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP6915",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP5644",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Pending",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP5069",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP3960",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP8657",
+      "product": "Solar Panel 100W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Shipped",
+      "efficiency": "98%"
+    },
+    {
+      "id": "SHP1797",
+      "product": "Charge Controller 30A",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "99%"
+    },
+    {
+      "id": "SHP4234",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "87%"
+    },
+    {
+      "id": "SHP7811",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP8380",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Pending",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP8867",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Shipped",
+      "efficiency": "89%"
+    },
+    {
+      "id": "SHP8452",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delivered",
+      "efficiency": "94%"
+    },
+    {
+      "id": "SHP7248",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Delayed",
+      "efficiency": "95%"
+    },
+    {
+      "id": "SHP3024",
+      "product": "Inverter 1000W",
+      "origin": "Global Hub",
+      "destination": "W002",
+      "status": "Delivered",
+      "efficiency": "96%"
+    },
+    {
+      "id": "SHP3680",
+      "product": "Electric Scooter X1",
+      "origin": "Global Hub",
+      "destination": "W001",
+      "status": "Pending",
+      "efficiency": "92%"
+    },
+    {
+      "id": "SHP1628",
+      "product": "Lithium Battery 12V",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delivered",
+      "efficiency": "97%"
+    },
+    {
+      "id": "SHP7045",
+      "product": "Wipro Eco-Turbine",
+      "origin": "Global Hub",
+      "destination": "W003",
+      "status": "Delayed",
+      "efficiency": "95%"
+    }
+  ],
+  "supplierStats": [
+    {
+      "name": "SunVolt Solar",
+      "country": "China",
+      "rating": 4.5,
+      "shipments": 3427
+    },
+    {
+      "name": "EnergyTech Ltd",
+      "country": "Germany",
+      "rating": 4.9,
+      "shipments": 3297
+    },
+    {
+      "name": "EcoPower Systems",
+      "country": "USA",
+      "rating": 4.8,
+      "shipments": 3276
+    }
+  ]
+}
